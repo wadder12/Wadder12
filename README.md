@@ -3,7 +3,6 @@
 # Welcome to my GitHub profile!
 
 ## About me
-```python
 class Wadder12:
     def __init__(self):
         self.name = "Your Name"
@@ -17,33 +16,33 @@ class Wadder12:
 
 wadder12 = Wadder12()
 wadder12.say_hello()
-🚀 My Skill Set
+
+## 🚀 My Skill Set
 
 Languages:
 
-Python
-JavaScript
-HTML
-CSS
-Java
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=007396)
 
 Tools & Frameworks:
 
-Django
-React
-Node.js
-Docker
-Kubernetes
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 
-Wadder12's GitHub stats
+![Wadder12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadder12&show_icons=true&theme=radical)
 
-📫 Get in touch
+## 📫 Get in touch
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:your-email@example.com)
 
-LinkedIn
-Twitter
-Email
-🎉 Fun fact
-
+## 🎉 Fun fact
 Did you know that I love to explore new technologies and collaborate on exciting projects? Let's connect and create something awesome together!
