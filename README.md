@@ -37,7 +37,7 @@ Tools & Frameworks:
 
 ## 📈 GitHub Stats
 
-![Wadder12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadder12&show_icons=true&theme=radical)
+![Wadder12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadder12&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
