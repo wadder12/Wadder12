@@ -1,21 +1,15 @@
 # Hi there! 👋 I'm wadder12
 
-# Welcome to my GitHub profile!
+
 
 ## About me
-class Wadder12:
-    def __init__(self):
-        self.name = "Your Name"
-        self.pronouns = "he/him"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS", "Java"]
-        self.tools = ["Django", "React", "Node.js", "Docker", "Kubernetes"]
-        self.interests = ["Web Development", "Data Science", "Machine Learning", "Artificial Intelligence"]
 
-    def say_hello(self):
-        print(f"Hello, I'm {self.name}! Welcome to my GitHub profile!")
+- **Name**: Your Name
+- **Languages**: Python, JavaScript, HTML, CSS, Java
+- **Tools**: Django, React, Node.js
+- **Interests**: Web Development, Data Science, Machine Learning, Artificial Intelligence
 
-wadder12 = Wadder12()
-wadder12.say_hello()
+> "Hello, I'm Wade! Welcome to my GitHub profile!"
 
 ## 🚀 My Skill Set
 
@@ -39,10 +33,8 @@ Tools & Frameworks:
 
 ![Wadder12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadder12&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-## 📫 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
 
-## 🎉 Fun fact
-Did you know that I love to explore new technologies and collaborate on exciting projects? Let's connect and create something awesome together!
+## 📫 Get in touch
+- [Email](mailto:wadderproject@gmail.com)
+
+
