@@ -4,7 +4,7 @@
 
 ## About me
 
-- **Name**: Your Name
+- **Name**: Andrew Wade
 - **Languages**: Python, JavaScript, HTML, CSS, Java
 - **Tools**: Django, React, Node.js
 - **Interests**: Web Development, Data Science, Machine Learning, Artificial Intelligence
