@@ -9,7 +9,7 @@
 - **Tools**: Django, React, Node.js
 - **Interests**: Web Development, Data Science, Machine Learning, Artificial Intelligence
 
-> "Hello, I'm Wade! Welcome to my GitHub profile!"
+
 
 ## 🚀 My Skill Set
 
